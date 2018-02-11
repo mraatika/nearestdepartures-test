@@ -4,6 +4,8 @@ RUN apk add --no-cache git nodejs
 
 WORKDIR /app
 
+COPY default.conf /etc/nginx/conf.d/default.conf
+
 RUN git clone https://github.com/mraatika/nearestdepartures.git .
 RUN git checkout $branch
 
