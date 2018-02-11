@@ -1,0 +1,29 @@
+version: "3.2"
+services:
+  web:
+    build:
+      context: ./web
+      args:
+        branch: development
+    ports:
+    - 5001:80
+    volumes:
+    - type: bind
+      source: ./web/default.conf
+      target: /etc/nginx/conf.d/default.conf
+  server:
+    build: ./server
+    volumes:
+    - type: bind
+      source: ./server
+      target: /mock-server
+  test:
+    depends_on:
+    - server
+    - web
+    build: ./test
+    volumes:
+    - type: bind
+      source: ./test/suites
+      target: /tests
+    command: ["./wait-for-it.sh", "web:80", "--", "robot", "."]

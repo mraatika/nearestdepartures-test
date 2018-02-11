@@ -1,0 +1,1020 @@
+{
+  "data": {
+    "nearest": {
+      "edges": [
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0ODtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRjME8waFRURG94TURJME9qQTZNREU9",
+            "distance": 148,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTc0O0hTTDoxMDI0OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020174",
+                "code": "1903",
+                "name": "Lasipalatsi",
+                "desc": "Mannerheimintie 9"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "74460",
+                  "realtimeDeparture": "74460",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Seurasaari via Hietaniemi",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAyNF8yMDE4MDExOF9TdV8xXzEyMDU="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Seurasaari via Hietaniemi",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAyNF8yMDE4MDExOF9TdV8xXzEyMjU="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1024",
+                  "shortName": "24",
+                  "longName": "Merikatu-Seurasaari",
+                  "mode": "BUS"
+                },
+                "code": "HSL:1024:0:01",
+                "headsign": "Seurasaari"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NztSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRNeE8waFRURG95TWpFNE9qQTZNREU9",
+            "distance": 177,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTMxO0hTTDoyMjE4OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020131",
+                "code": "2022",
+                "name": "Elielinaukio",
+                "desc": "Elielinaukio"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75820",
+                  "realtimeDeparture": "75820",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Jupperi via Pitäjänmäki as.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MjIxOF8yMDE4MDExOF9TdV8xXzEyMzQ="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "76190",
+                  "realtimeDeparture": "76190",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Jupperi via Pitäjänmäki as.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MjIxOF8yMDE4MDExOF9TdV8xXzEzMDQ="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:2218",
+                  "shortName": "218",
+                  "longName": "Elielinaukio-Leppävaara-Lähderanta-Jupperi",
+                  "mode": "BUS"
+                },
+                "code": "HSL:2218:0:01",
+                "headsign": "Jupperi"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NztSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRNeE8waFRURG95TWpNMU9qQTZNREU9",
+            "distance": 177,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTMxO0hTTDoyMjM1OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020131",
+                "code": "2022",
+                "name": "Elielinaukio",
+                "desc": "Elielinaukio"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75402",
+                  "realtimeDeparture": "75402",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kuurinniitty via Pitäjänmäki as.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MjIzNV8yMDE4MDExOF9TdV8xXzEyMTk="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kuurinniitty via Pitäjänmäki as.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MjIzNV8yMDE4MDExOF9TdV8xXzEyNDk="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:2235",
+                  "shortName": "235",
+                  "longName": "Elielinaukio-Leppävaara-Espoon keskus-Kuurinniitty",
+                  "mode": "BUS"
+                },
+                "code": "HSL:2235:0:01",
+                "headsign": "Kuurinniitty"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE5NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRjM08waFRURG94TURJME9qRTZNREU9",
+            "distance": 194,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTc3O0hTTDoxMDI0OjE6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020177",
+                "code": "1902",
+                "name": "Lasipalatsi",
+                "desc": "Mannerheimintie"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "74502",
+                  "realtimeDeparture": "74502",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Merikatu via Erottaja",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAyNF8yMDE4MDExOF9TdV8yXzEyMDU="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75180",
+                  "realtimeDeparture": "75180",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Merikatu via Erottaja",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAyNF8yMDE4MDExOF9TdV8yXzEyMjU="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1024",
+                  "shortName": "24",
+                  "longName": "Merikatu-Seurasaari",
+                  "mode": "BUS"
+                },
+                "code": "HSL:1024:1:01",
+                "headsign": "Merikatu"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE5NjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRNek8waFRURG8wTXpNeU9qQTZNREU9",
+            "distance": 196,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTMzO0hTTDo0MzMyOjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020133",
+                "code": "2023",
+                "name": "Elielinaukio",
+                "desc": "Elielinaukio"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "64180",
+                  "realtimeDeparture": "64180",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Askisto via Vapaala",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6NDMzMl8yMDE4MDExOF9TdV8xXzEyMzU="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:4332",
+                  "shortName": "332",
+                  "longName": "Elielinaukio-Varisto-Askisto",
+                  "mode": "BUS"
+                },
+                "code": "HSL:4332:0:01",
+                "headsign": "Askisto"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE5NjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TVRNek8waFRURG95TXpRMU9qQTZNREU9",
+            "distance": 196,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwMTMzO0hTTDoyMzQ1OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020133",
+                "code": "2023",
+                "name": "Elielinaukio",
+                "desc": "Elielinaukio"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "72410",
+                  "realtimeDeparture": "72410",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Rinnekoti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MjM0NV8yMDE4MDExOF9TdV8xXzEzMDU="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:2345",
+                  "shortName": "345",
+                  "longName": "Elielinaukio-Rinnekoti",
+                  "mode": "BUS"
+                },
+                "code": "HSL:2345:0:01",
+                "headsign": "Rinnekoti"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjIyNDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNRE13TnpBeE8waFRURG94TURFNU9qQTZNREU9",
+            "distance": 224,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDMwNzAxO0hTTDoxMDE5OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1030701",
+                "code": "0099",
+                "name": "Kauppatori",
+                "desc": "Kauppatori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75712",
+                  "realtimeDeparture": "75712",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Suomenlinna, päälait",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAxOV8yMDE4MDExOF9TdV8xXzEzMDA="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1019",
+                  "shortName": "19",
+                  "longName": "Kauppatori-Suomenlinna",
+                  "mode": "FERRY"
+                },
+                "code": "HSL:1019:0:01",
+                "headsign": "Suomenlinna, päälait"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NTtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TmpBeE8waFRURG96TVUweU9qQTZNREU9",
+            "distance": 175,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNjAxO0hTTDozMU0yOjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020601",
+                "code": "0019",
+                "name": "Rautatientori",
+                "desc": "Rautatientori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "69280",
+                  "realtimeDeparture": "69280",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Mellunmäki",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMl8yMDE4MDExOF9TdV8xXzEyMDA="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "69760",
+                  "realtimeDeparture": "69760",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Mellunmäki",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMl8yMDE4MDExOF9TdV8xXzEyMTA="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:31M2",
+                  "shortName": "M2",
+                  "longName": "Tapiola - Mellunmäki",
+                  "mode": "SUBWAY"
+                },
+                "code": "HSL:31M2:0:01",
+                "headsign": "Mellunmäki"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NTtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TmpBeE8waFRURG96TVUweE9qQTZNREU9",
+            "distance": 175,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNjAxO0hTTDozMU0xOjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020601",
+                "code": "0019",
+                "name": "Rautatientori",
+                "desc": "Rautatientori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75580",
+                  "realtimeDeparture": "75580",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Vuosaari",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMV8yMDE4MDExOF9TdV8xXzExNTk="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "72780",
+                  "realtimeDeparture": "72780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Vuosaari",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMV8yMDE4MDExOF9TdV8xXzEyMDk="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:31M1",
+                  "shortName": "M1",
+                  "longName": "Matinkylä - Vuosaari",
+                  "mode": "SUBWAY"
+                },
+                "code": "HSL:31M1:0:01",
+                "headsign": "Vuosaari"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NTtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TmpBeU8waFRURG96TVUweE9qRTZNREU9",
+            "distance": 175,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNjAyO0hTTDozMU0xOjE6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020602",
+                "code": "0018",
+                "name": "Rautatientori",
+                "desc": "Rautatientori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75726",
+                  "realtimeDeparture": "75726",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Matinkylä",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMV8yMDE4MDExOF9TdV8yXzExNTU="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "79280",
+                  "realtimeDeparture": "79280",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Matinkylä",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMV8yMDE4MDExOF9TdV8yXzEyMDU="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:31M1",
+                  "shortName": "M1",
+                  "longName": "Matinkylä - Vuosaari",
+                  "mode": "SUBWAY"
+                },
+                "code": "HSL:31M1:1:01",
+                "headsign": "Matinkylä"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE3NTtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TmpBeU8waFRURG96TVUweU9qRTZNREU9",
+            "distance": 175,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNjAyO0hTTDozMU0yOjE6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020602",
+                "code": "0018",
+                "name": "Rautatientori",
+                "desc": "Rautatientori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "71230",
+                  "realtimeDeparture": "71230",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Tapiola",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMl8yMDE4MDExOF9TdV8yXzEyMDA="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "74310",
+                  "realtimeDeparture": "75530",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Tapiola",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzFNMl8yMDE4MDExOF9TdV8yXzEyMTA="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:31M2",
+                  "shortName": "M2",
+                  "longName": "Tapiola - Mellunmäki",
+                  "mode": "SUBWAY"
+                },
+                "code": "HSL:31M2:1:01",
+                "headsign": "Tapiola"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjIwNTtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TlRBeE8waFRURG96TURBeFdqb3dPakF5",
+            "distance": 205,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNTAxO0hTTDozMDAxWjowOjAy",
+              "stop": {
+                "gtfsId": "HSL:1020501",
+                "code": "0070",
+                "name": "Helsinki",
+                "desc": "Kaivokatu 1"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "78290",
+                  "realtimeDeparture": "78290",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Lahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMVpfMjAxODAxMThfU3VfMV8xMjM1"
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:3001Z",
+                  "shortName": "Z",
+                  "longName": "Helsinki-Lahti",
+                  "mode": "RAIL"
+                },
+                "code": "HSL:3001Z:0:02",
+                "headsign": "Lahti"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjI3MjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TlRBeU8waFRURG96TURBeVJUb3dPakF4",
+            "distance": 272,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNTAyO0hTTDozMDAyRTowOjAx",
+              "stop": {
+                "gtfsId": "HSL:1020502",
+                "code": "0070",
+                "name": "Helsinki",
+                "desc": "Kaivokatu 1"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "79201",
+                  "realtimeDeparture": "79201",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kauklahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMkVfMjAxODAxMThfU3VfMV8xMjI3"
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "65383",
+                  "realtimeDeparture": "65383",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kauklahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMkVfMjAxODAxMThfU3VfMV8xMjU3"
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:3002E",
+                  "shortName": "E",
+                  "longName": "Helsinki-Kauklahti",
+                  "mode": "RAIL"
+                },
+                "code": "HSL:3002E:0:01",
+                "headsign": "Kauklahti"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjI3MjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TlRBeU8waFRURG96TURBeVFUb3dPakF4",
+            "distance": 272,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNTAyO0hTTDozMDAyQTowOjAx",
+              "stop": {
+                "gtfsId": "HSL:1020502",
+                "code": "0070",
+                "name": "Helsinki",
+                "desc": "Kaivokatu 1"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "77777",
+                  "realtimeDeparture": "77777",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Leppävaara",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMkFfMjAxODAxMThfU3VfMV8xMjMz"
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "77882",
+                  "realtimeDeparture": "77882",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Leppävaara",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMkFfMjAxODAxMThfU3VfMV8xMzAz"
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:3002A",
+                  "shortName": "A",
+                  "longName": "Helsinki-Leppävaara",
+                  "mode": "RAIL"
+                },
+                "code": "HSL:3002A:0:01",
+                "headsign": "Leppävaara"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjI3MjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TlRBeU8waFRURG96TURBeVZUb3dPakF5",
+            "distance": 272,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNTAyO0hTTDozMDAyVTowOjAy",
+              "stop": {
+                "gtfsId": "HSL:1020502",
+                "code": "0070",
+                "name": "Helsinki",
+                "desc": "Kaivokatu 1"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kirkkonummi",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMlVfMjAxODAxMThfU3VfMV8xMjEz"
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Kirkkonummi",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MzAwMlVfMjAxODAxMThfU3VfMV8xMjQz"
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:3002U",
+                  "shortName": "U",
+                  "longName": "Helsinki-Kirkkonummi",
+                  "mode": "RAIL"
+                },
+                "code": "HSL:3002U:0:02",
+                "headsign": "Kirkkonummi"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjEyMzQ7UkdWd1lYSjBkWEpsVW05M09raFRURHN4TURNd056QXhPMGhUVERveE1ERTVPakE2TURFPQ==",
+            "distance": 1234,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDMwNzAxO0hTTDoxMDE5OjA6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1030701",
+                "code": "0099",
+                "name": "Kauppatori",
+                "desc": "Kauppatori"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Suomenlinna, päälait",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAxOV8yMDE4MDExOF9TdV8xXzEzMDA="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1019",
+                  "shortName": "19",
+                  "longName": "Kauppatori-Suomenlinna",
+                  "mode": "FERRY"
+                },
+                "code": "HSL:1019:0:01",
+                "headsign": "Suomenlinna, päälait"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRVME8waFRURG94TURBMk9qRTZNREk9",
+            "distance": 144,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDU0O0hTTDoxMDA2OjE6MDI=",
+              "stop": {
+                "gtfsId": "HSL:1020454",
+                "code": "0302",
+                "name": "Rautatieasema",
+                "desc": "Kaivokatu"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Hietalahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwNl8yMDE4MDExOF9TdV8yXzExNTM="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1006",
+                  "shortName": "6",
+                  "longName": "Hietalahti - Rautatieasema - Sörnäinen (M) - Arabia",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1006:1:02",
+                "headsign": "Hietalahti"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRVME8waFRURG94TURBek9qRTZNREU9",
+            "distance": 144,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDU0O0hTTDoxMDAzOjE6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020454",
+                "code": "0302",
+                "name": "Rautatieasema",
+                "desc": "Kaivokatu"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Olympiaterm. via Eira",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwM18yMDE4MDExOF9TdV8yXzExNTc="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Olympiaterm. via Eira",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwM18yMDE4MDExOF9TdV8yXzEyMDk="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1003",
+                  "shortName": "3",
+                  "longName": "Olympiaterminaali - Eira - Kallio - Meilahti",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1003:1:01",
+                "headsign": "Olympiaterm."
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRVME8waFRURG94TURBM09qRTZNREk9",
+            "distance": 144,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDU0O0hTTDoxMDA3OjE6MDI=",
+              "stop": {
+                "gtfsId": "HSL:1020454",
+                "code": "0302",
+                "name": "Rautatieasema",
+                "desc": "Kaivokatu"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Länsiterm.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwN18yMDE4MDExOF9TdV8yXzExNDU="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Länsiterm.",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwN18yMDE4MDExOF9TdV8yXzExNTc="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1007",
+                  "shortName": "7",
+                  "longName": "Länsiterminaali - Kruununhaka - Sörnäinen (M) - Länsi-Pasila",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1007:1:02",
+                "headsign": "Länsiterm."
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRVME8waFRURG94TURBNU9qRTZNREU9",
+            "distance": 144,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDU0O0hTTDoxMDA5OjE6MDE=",
+              "stop": {
+                "gtfsId": "HSL:1020454",
+                "code": "0302",
+                "name": "Rautatieasema",
+                "desc": "Kaivokatu"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Jätkäsaari",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwOV8yMDE4MDExOF9TdV8yXzExNTE="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Jätkäsaari",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwOV8yMDE4MDExOF9TdV8yXzEyMDM="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1009",
+                  "shortName": "9",
+                  "longName": "Jätkäsaari - Rautatieasema - Kallio - Pasilan asema",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1009:1:01",
+                "headsign": "Jätkäsaari"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE0NDtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRVME8waFRURG94TURBMlZEb3hPakF4",
+            "distance": 144,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDU0O0hTTDoxMDA2VDoxOjAx",
+              "stop": {
+                "gtfsId": "HSL:1020454",
+                "code": "0302",
+                "name": "Rautatieasema",
+                "desc": "Kaivokatu"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Länsiterm. via Hietalahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwNlRfMjAxODAxMThfU3VfMl8xMjA1"
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Länsiterm. via Hietalahti",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwNlRfMjAxODAxMThfU3VfMl8xMjE3"
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1006T",
+                  "shortName": "6T",
+                  "longName": "Länsiterminaali - Rautatieasema - Sörnäinen (M) - Arabia",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1006T:1:01",
+                "headsign": "Länsiterm."
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "cGxhY2VBdERpc3RhbmNlOjE1NjtSR1Z3WVhKMGRYSmxVbTkzT2toVFREc3hNREl3TkRRME8waFRURG94TURBeE9qQTZNREk9",
+            "distance": 156,
+            "place": {
+              "id": "RGVwYXJ0dXJlUm93OkhTTDsxMDIwNDQ0O0hTTDoxMDAxOjA6MDI=",
+              "stop": {
+                "gtfsId": "HSL:1020444",
+                "code": "0101",
+                "name": "Lasipalatsi",
+                "desc": "Mannerheimintie 9"
+              },
+              "stoptimes": [
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "UPDATED",
+                  "realtime": true,
+                  "headsign": "Käpylä via Töölö",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwMV8yMDE4MDExOF9TdV8xXzEyMTA="
+                  }
+                },
+                {
+                  "serviceDay": "${SERVICE_DAY}",
+                  "scheduledDeparture": "75780",
+                  "realtimeDeparture": "75780",
+                  "realtimeState": "SCHEDULED",
+                  "realtime": false,
+                  "headsign": "Käpylä via Töölö",
+                  "trip": {
+                    "id": "VHJpcDpIU0w6MTAwMV8yMDE4MDExOF9TdV8xXzEyMjI="
+                  }
+                }
+              ],
+              "pattern": {
+                "route": {
+                  "gtfsId": "HSL:1001",
+                  "shortName": "1",
+                  "longName": "Eira - Töölö - Sörnäinen (M) - Käpylä",
+                  "mode": "TRAM"
+                },
+                "code": "HSL:1001:0:02",
+                "headsign": "Käpylä"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
